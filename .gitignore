@@ -1,0 +1,12 @@
+.project
+build/
+dist/
+.pydevproject
+__pycache__/
+*.pyc
+*.log
+*.log*
+*.egg-info/
+*cookiejar
+*.settings/
+.idea
